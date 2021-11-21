@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mouli!;I'm+a+learning+developer...;I'm+a+professional+cricket+player;Intrested+in+forex)](https://git.io/typing-svg)
 
-- 📫 How to reach me mail -> moulidharan428@gmail.com
+- 📫 How to reach me -> moulidharan428@gmail.com
 ### Here's my github README stats:
 
 ![MOULIDHARAN428 GitHub stats](https://github-readme-stats.vercel.app/api?username=MOULIDHARAN428&show_icons=true&theme=radical) 
