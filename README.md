@@ -18,13 +18,12 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/MOULIDHARAN428)](https://github.com/MOULIDHARAN428)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/MOULIDHARAN428)](https://github.com/MOULIDHARAN428)
 
-
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/MOULIDHARAN428)](https://github.com/MOULIDHARAN428)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/MOULIDHARAN428)](https://github.com/MOULIDHARAN428)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/MOULIDHARAN428)](https://gitlab.com/MOULIDHARAN428) 
 [![Express](https://img.shields.io/badge/-Express-FCA121?style=flat&logo=express&link=https://github.com/MOULIDHARAN428)](https://gitlab.com/MOULIDHARAN428)
-
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/MOULIDHARAN428)](https://github.com/MOULIDHARAN428)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/MOULIDHARAN428)](https://github.com/MOULIDHARAN428)
+
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/MOULIDHARAN428)](https://github.com/MOULIDHARAN428)
 [![C](https://img.shields.io/badge/-C-black?style=flat&logo=C&link=https://github.com/MOULIDHARAN428)](https://github.com/MOULIDHARAN428) 
 [![Python](https://img.shields.io/badge/python-black?style=flat&logo=python&link=https://github.com/MOULIDHARAN428)](https://github.com/MOULIDHARAN428) 
 [![Java](https://img.shields.io/badge/-java-black?style=flat&logo=java&link=https://github.com/MOULIDHARAN428)](https://github.com/MOULIDHARAN428) 
