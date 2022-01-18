@@ -10,10 +10,6 @@
   
   ![langs](https://github-readme-stats.vercel.app/api/top-langs?username=MOULIDHARAN428&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
   
-   _(Wakatime stats of all time)_
-  
-  [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=MOULIDHARAN428&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@zaidmukaddam)
-  
  </details>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
