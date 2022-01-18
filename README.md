@@ -2,10 +2,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mouli!;I'm+a+learning+developer...;I'm+a+professional+cricket+player+;Intrested+in+forex)](https://git.io/typing-svg)
 
 - 📫 How to reach me -> moulidharan428@gmail.com
-### Here's my github README stats:
-
-![MOULIDHARAN428 GitHub stats](https://github-readme-stats.vercel.app/api?username=MOULIDHARAN428&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOULIDHARAN428&theme=radical)](https://git.io/streak-stats) 
+<details>
+  <summary>stats</summary>
+  
+  
+  ![stats](https://github-readme-stats.vercel.app/api?username=zaidmukaddam&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
+  
+  ![langs](https://github-readme-stats.vercel.app/api/top-langs?username=zaidmukaddam&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
+  
+   _(Wakatime stats of all time)_
+  
+  [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=zaidmukaddam&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@zaidmukaddam)
+  
+ </details>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
