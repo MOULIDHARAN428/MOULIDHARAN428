@@ -12,7 +12,7 @@
   
    _(Wakatime stats of all time)_
   
-  [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=zaidmukaddam&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@zaidmukaddam)
+  [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=MOULIDHARAN428&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@zaidmukaddam)
   
  </details>
 
