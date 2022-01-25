@@ -4,12 +4,6 @@
 - 📫 How to reach me -> moulidharan428@gmail.com
 <details>
   <summary>stats</summary>
-  
-  
-  ![stats](https://github-readme-stats.vercel.app/api?username=MOULIDHARAN428&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
-  
-  ![langs](https://github-readme-stats.vercel.app/api/top-langs?username=MOULIDHARAN428&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
-  
   <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=MOULIDHARAN428&show_icons=true&theme=bear" width = 400>
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=MOULIDHARAN428&theme=dark&hide_border=true" width = 400>
