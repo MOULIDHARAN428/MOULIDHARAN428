@@ -10,6 +10,11 @@
   
   ![langs](https://github-readme-stats.vercel.app/api/top-langs?username=MOULIDHARAN428&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
   
+  <p align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api?username=MOULIDHARAN428&show_icons=true&theme=bear" width = 400>
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=MOULIDHARAN428&theme=dark&hide_border=true" width = 400>
+  </p>
+  
  </details>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
