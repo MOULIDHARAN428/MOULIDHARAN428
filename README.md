@@ -7,7 +7,7 @@
   <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=MOULIDHARAN428&show_icons=true&theme=bear" width = 400>
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=MOULIDHARAN428&theme=dark&hide_border=true" width = 400>
-    <a href="https://github.com/anuraghazra/anuraghazra.github.io">
+    <a href="https://github.com/MOULIDHARAN428/MOULIDHARAN428.github.io">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MOULIDHARAN428&repo=MOULIDHARAN428.github.io&theme=buefy" />
     </a>
   </p>
