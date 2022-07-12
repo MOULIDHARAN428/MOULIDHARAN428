@@ -31,6 +31,4 @@
 [![C](https://img.shields.io/badge/-C-yellow?style=flat&logo=C&link=https://github.com/MOULIDHARAN428)](https://github.com/MOULIDHARAN428) 
 [![Python](https://img.shields.io/badge/python-orange?style=flat&logo=python&link=https://github.com/MOULIDHARAN428)](https://github.com/MOULIDHARAN428) 
 [![Java](https://img.shields.io/badge/-java-blue?style=flat&logo=java&link=https://github.com/MOULIDHARAN428)](https://github.com/MOULIDHARAN428) 
-[![PHP](https://img.shields.io/badge/-php-yellow?style=flat&logo=php&link=https://github.com/MOULIDHARAN428)](https://gitlab.com/MOULIDHARAN428)
-
-
+[![Solidity](https://img.shields.io/badge/-solidity-yellow?style=flat&logo=solidity&link=https://github.com/MOULIDHARAN428)](https://gitlab.com/MOULIDHARAN428)
